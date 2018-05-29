@@ -1,0 +1,2 @@
+model_checkpoint_path: "lenet_paper_gray"
+all_model_checkpoint_paths: "lenet_paper_gray"
